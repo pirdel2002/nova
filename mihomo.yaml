@@ -43,22 +43,22 @@ proxies:
     mtu: 1280
     amnezia-wg-option: {jc: 4, jmin: 40, jmax: 70}
   - {name: "سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]", server: pixel-stack-atlas-b69815.helsin.workers.dev, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.16.149.188:443 [VLESS]", server: 104.16.149.188, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 172.67.79.124:2083 [VLESS]", server: 172.67.79.124, port: 2083, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.123.33:2096 [VLESS]", server: 104.17.123.33, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 8.35.211.204:2053 [VLESS]", server: 8.35.211.204, port: 2053, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.33.182:443 [VLESS]", server: 104.19.33.182, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.147.218:2087 [VLESS]", server: 104.19.147.218, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 91.193.59.146:443 [VLESS]", server: 91.193.59.146, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 108.162.198.215:443 [VLESS]", server: 108.162.198.215, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 91.193.59.95:2053 [VLESS]", server: 91.193.59.95, port: 2053, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.17.113.52:2083 [VLESS]", server: 104.17.113.52, port: 2083, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 172.67.79.234:2096 [VLESS]", server: 172.67.79.234, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.149.55:2096 [VLESS]", server: 104.19.149.55, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 188.164.248.152:2083 [VLESS]", server: 188.164.248.152, port: 2083, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.19.148.28:2087 [VLESS]", server: 104.19.148.28, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 108.162.198.211:443 [VLESS]", server: 108.162.198.211, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا 104.18.33.143:2087 [VLESS]", server: 104.18.33.143, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.19.147.152:2053 [VLESS]", server: 104.19.147.152, port: 2053, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 8.39.125.37:2096 [VLESS]", server: 8.39.125.37, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 198.41.223.144:2053 [VLESS]", server: 198.41.223.144, port: 2053, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.164.59:2087 [VLESS]", server: 104.17.164.59, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.97.144:8443 [VLESS]", server: 104.17.97.144, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 8.39.125.87:8443 [VLESS]", server: 8.39.125.87, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 91.193.58.129:2096 [VLESS]", server: 91.193.58.129, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 162.159.38.74:2096 [VLESS]", server: 162.159.38.74, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.16.253.233:2096 [VLESS]", server: 104.16.253.233, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 8.35.211.221:2053 [VLESS]", server: 8.35.211.221, port: 2053, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.26.9.29:8443 [VLESS]", server: 104.26.9.29, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.17.190.111:8443 [VLESS]", server: 104.17.190.111, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 108.162.198.148:443 [VLESS]", server: 108.162.198.148, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 172.67.78.47:2096 [VLESS]", server: 172.67.78.47, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 172.67.74.180:8443 [VLESS]", server: 172.67.74.180, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا 104.16.240.6:2083 [VLESS]", server: 104.16.240.6, port: 2083, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -69,22 +69,22 @@ proxy-groups:
       - 🔮 负载均衡
       - DIRECT
       - سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.16.149.188:443 [VLESS]
-      - سرویس رایگان نوا 172.67.79.124:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.123.33:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.204:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.33.182:443 [VLESS]
-      - سرویس رایگان نوا 104.19.147.218:2087 [VLESS]
-      - سرویس رایگان نوا 91.193.59.146:443 [VLESS]
-      - سرویس رایگان نوا 108.162.198.215:443 [VLESS]
-      - سرویس رایگان نوا 91.193.59.95:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.113.52:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.79.234:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.149.55:2096 [VLESS]
-      - سرویس رایگان نوا 188.164.248.152:2083 [VLESS]
-      - سرویس رایگان نوا 104.19.148.28:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.211:443 [VLESS]
-      - سرویس رایگان نوا 104.18.33.143:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.147.152:2053 [VLESS]
+      - سرویس رایگان نوا 8.39.125.37:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.144:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.164.59:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.97.144:8443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.87:8443 [VLESS]
+      - سرویس رایگان نوا 91.193.58.129:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.74:2096 [VLESS]
+      - سرویس رایگان نوا 104.16.253.233:2096 [VLESS]
+      - سرویس رایگان نوا 8.35.211.221:2053 [VLESS]
+      - سرویس رایگان نوا 104.26.9.29:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.190.111:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.148:443 [VLESS]
+      - سرویس رایگان نوا 172.67.78.47:2096 [VLESS]
+      - سرویس رایگان نوا 172.67.74.180:8443 [VLESS]
+      - سرویس رایگان نوا 104.16.240.6:2083 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -92,44 +92,44 @@ proxy-groups:
     tolerance: 50
     proxies:
       - سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.16.149.188:443 [VLESS]
-      - سرویس رایگان نوا 172.67.79.124:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.123.33:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.204:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.33.182:443 [VLESS]
-      - سرویس رایگان نوا 104.19.147.218:2087 [VLESS]
-      - سرویس رایگان نوا 91.193.59.146:443 [VLESS]
-      - سرویس رایگان نوا 108.162.198.215:443 [VLESS]
-      - سرویس رایگان نوا 91.193.59.95:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.113.52:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.79.234:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.149.55:2096 [VLESS]
-      - سرویس رایگان نوا 188.164.248.152:2083 [VLESS]
-      - سرویس رایگان نوا 104.19.148.28:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.211:443 [VLESS]
-      - سرویس رایگان نوا 104.18.33.143:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.147.152:2053 [VLESS]
+      - سرویس رایگان نوا 8.39.125.37:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.144:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.164.59:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.97.144:8443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.87:8443 [VLESS]
+      - سرویس رایگان نوا 91.193.58.129:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.74:2096 [VLESS]
+      - سرویس رایگان نوا 104.16.253.233:2096 [VLESS]
+      - سرویس رایگان نوا 8.35.211.221:2053 [VLESS]
+      - سرویس رایگان نوا 104.26.9.29:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.190.111:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.148:443 [VLESS]
+      - سرویس رایگان نوا 172.67.78.47:2096 [VLESS]
+      - سرویس رایگان نوا 172.67.74.180:8443 [VLESS]
+      - سرویس رایگان نوا 104.16.240.6:2083 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
       - سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.16.149.188:443 [VLESS]
-      - سرویس رایگان نوا 172.67.79.124:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.123.33:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.204:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.33.182:443 [VLESS]
-      - سرویس رایگان نوا 104.19.147.218:2087 [VLESS]
-      - سرویس رایگان نوا 91.193.59.146:443 [VLESS]
-      - سرویس رایگان نوا 108.162.198.215:443 [VLESS]
-      - سرویس رایگان نوا 91.193.59.95:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.113.52:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.79.234:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.149.55:2096 [VLESS]
-      - سرویس رایگان نوا 188.164.248.152:2083 [VLESS]
-      - سرویس رایگان نوا 104.19.148.28:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.211:443 [VLESS]
-      - سرویس رایگان نوا 104.18.33.143:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.147.152:2053 [VLESS]
+      - سرویس رایگان نوا 8.39.125.37:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.144:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.164.59:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.97.144:8443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.87:8443 [VLESS]
+      - سرویس رایگان نوا 91.193.58.129:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.74:2096 [VLESS]
+      - سرویس رایگان نوا 104.16.253.233:2096 [VLESS]
+      - سرویس رایگان نوا 8.35.211.221:2053 [VLESS]
+      - سرویس رایگان نوا 104.26.9.29:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.190.111:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.148:443 [VLESS]
+      - سرویس رایگان نوا 172.67.78.47:2096 [VLESS]
+      - سرویس رایگان نوا 172.67.74.180:8443 [VLESS]
+      - سرویس رایگان نوا 104.16.240.6:2083 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -137,22 +137,22 @@ proxy-groups:
     interval: 180
     proxies:
       - سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.16.149.188:443 [VLESS]
-      - سرویس رایگان نوا 172.67.79.124:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.123.33:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.204:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.33.182:443 [VLESS]
-      - سرویس رایگان نوا 104.19.147.218:2087 [VLESS]
-      - سرویس رایگان نوا 91.193.59.146:443 [VLESS]
-      - سرویس رایگان نوا 108.162.198.215:443 [VLESS]
-      - سرویس رایگان نوا 91.193.59.95:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.113.52:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.79.234:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.149.55:2096 [VLESS]
-      - سرویس رایگان نوا 188.164.248.152:2083 [VLESS]
-      - سرویس رایگان نوا 104.19.148.28:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.211:443 [VLESS]
-      - سرویس رایگان نوا 104.18.33.143:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.147.152:2053 [VLESS]
+      - سرویس رایگان نوا 8.39.125.37:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.144:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.164.59:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.97.144:8443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.87:8443 [VLESS]
+      - سرویس رایگان نوا 91.193.58.129:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.74:2096 [VLESS]
+      - سرویس رایگان نوا 104.16.253.233:2096 [VLESS]
+      - سرویس رایگان نوا 8.35.211.221:2053 [VLESS]
+      - سرویس رایگان نوا 104.26.9.29:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.190.111:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.148:443 [VLESS]
+      - سرویس رایگان نوا 172.67.78.47:2096 [VLESS]
+      - سرویس رایگان نوا 172.67.74.180:8443 [VLESS]
+      - سرویس رایگان نوا 104.16.240.6:2083 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -176,22 +176,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.16.149.188:443 [VLESS]
-      - سرویس رایگان نوا 172.67.79.124:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.123.33:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.204:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.33.182:443 [VLESS]
-      - سرویس رایگان نوا 104.19.147.218:2087 [VLESS]
-      - سرویس رایگان نوا 91.193.59.146:443 [VLESS]
-      - سرویس رایگان نوا 108.162.198.215:443 [VLESS]
-      - سرویس رایگان نوا 91.193.59.95:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.113.52:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.79.234:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.149.55:2096 [VLESS]
-      - سرویس رایگان نوا 188.164.248.152:2083 [VLESS]
-      - سرویس رایگان نوا 104.19.148.28:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.211:443 [VLESS]
-      - سرویس رایگان نوا 104.18.33.143:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.147.152:2053 [VLESS]
+      - سرویس رایگان نوا 8.39.125.37:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.144:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.164.59:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.97.144:8443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.87:8443 [VLESS]
+      - سرویس رایگان نوا 91.193.58.129:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.74:2096 [VLESS]
+      - سرویس رایگان نوا 104.16.253.233:2096 [VLESS]
+      - سرویس رایگان نوا 8.35.211.221:2053 [VLESS]
+      - سرویس رایگان نوا 104.26.9.29:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.190.111:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.148:443 [VLESS]
+      - سرویس رایگان نوا 172.67.78.47:2096 [VLESS]
+      - سرویس رایگان نوا 172.67.74.180:8443 [VLESS]
+      - سرویس رایگان نوا 104.16.240.6:2083 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -203,22 +203,22 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
-      - سرویس رایگان نوا 104.16.149.188:443 [VLESS]
-      - سرویس رایگان نوا 172.67.79.124:2083 [VLESS]
-      - سرویس رایگان نوا 104.17.123.33:2096 [VLESS]
-      - سرویس رایگان نوا 8.35.211.204:2053 [VLESS]
-      - سرویس رایگان نوا 104.19.33.182:443 [VLESS]
-      - سرویس رایگان نوا 104.19.147.218:2087 [VLESS]
-      - سرویس رایگان نوا 91.193.59.146:443 [VLESS]
-      - سرویس رایگان نوا 108.162.198.215:443 [VLESS]
-      - سرویس رایگان نوا 91.193.59.95:2053 [VLESS]
-      - سرویس رایگان نوا 104.17.113.52:2083 [VLESS]
-      - سرویس رایگان نوا 172.67.79.234:2096 [VLESS]
-      - سرویس رایگان نوا 104.19.149.55:2096 [VLESS]
-      - سرویس رایگان نوا 188.164.248.152:2083 [VLESS]
-      - سرویس رایگان نوا 104.19.148.28:2087 [VLESS]
-      - سرویس رایگان نوا 108.162.198.211:443 [VLESS]
-      - سرویس رایگان نوا 104.18.33.143:2087 [VLESS]
+      - سرویس رایگان نوا 104.19.147.152:2053 [VLESS]
+      - سرویس رایگان نوا 8.39.125.37:2096 [VLESS]
+      - سرویس رایگان نوا 198.41.223.144:2053 [VLESS]
+      - سرویس رایگان نوا 104.17.164.59:2087 [VLESS]
+      - سرویس رایگان نوا 104.17.97.144:8443 [VLESS]
+      - سرویس رایگان نوا 8.39.125.87:8443 [VLESS]
+      - سرویس رایگان نوا 91.193.58.129:2096 [VLESS]
+      - سرویس رایگان نوا 162.159.38.74:2096 [VLESS]
+      - سرویس رایگان نوا 104.16.253.233:2096 [VLESS]
+      - سرویس رایگان نوا 8.35.211.221:2053 [VLESS]
+      - سرویس رایگان نوا 104.26.9.29:8443 [VLESS]
+      - سرویس رایگان نوا 104.17.190.111:8443 [VLESS]
+      - سرویس رایگان نوا 108.162.198.148:443 [VLESS]
+      - سرویس رایگان نوا 172.67.78.47:2096 [VLESS]
+      - سرویس رایگان نوا 172.67.74.180:8443 [VLESS]
+      - سرویس رایگان نوا 104.16.240.6:2083 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
