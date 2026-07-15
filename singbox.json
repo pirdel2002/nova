@@ -99,12 +99,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -114,20 +114,43 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 162.159.40.237:443 [VLESS]",
-      "server": "162.159.40.237",
+      "tag": "سرویس رایگان نوا 104.17.163.35:2087 [VLESS]",
+      "server": "104.17.163.35",
+      "server_port": 2087,
+      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 8.35.211.122:443 [VLESS]",
+      "server": "8.35.211.122",
       "server_port": 443,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -137,66 +160,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 8.39.125.168:2087 [VLESS]",
-      "server": "8.39.125.168",
-      "server_port": 2087,
-      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nov.xolox.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nov.xolox.ir",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 108.162.198.154:2087 [VLESS]",
-      "server": "108.162.198.154",
-      "server_port": 2087,
-      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nov.xolox.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nov.xolox.ir",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.171.219:2083 [VLESS]",
-      "server": "104.17.171.219",
+      "tag": "سرویس رایگان نوا 8.35.211.186:2083 [VLESS]",
+      "server": "8.35.211.186",
       "server_port": 2083,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -206,20 +183,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 172.66.3.255:443 [VLESS]",
-      "server": "172.66.3.255",
-      "server_port": 443,
+      "tag": "سرویس رایگان نوا 198.41.208.248:8443 [VLESS]",
+      "server": "198.41.208.248",
+      "server_port": 8443,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -229,20 +206,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.167.67:2083 [VLESS]",
-      "server": "104.17.167.67",
+      "tag": "سرویس رایگان نوا 104.17.215.100:2083 [VLESS]",
+      "server": "104.17.215.100",
       "server_port": 2083,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -252,20 +229,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.156.111:2096 [VLESS]",
-      "server": "104.17.156.111",
-      "server_port": 2096,
+      "tag": "سرویس رایگان نوا 162.159.39.120:8443 [VLESS]",
+      "server": "162.159.39.120",
+      "server_port": 8443,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -275,20 +252,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.19.32.13:2096 [VLESS]",
-      "server": "104.19.32.13",
-      "server_port": 2096,
+      "tag": "سرویس رایگان نوا 162.159.38.109:8443 [VLESS]",
+      "server": "162.159.38.109",
+      "server_port": 8443,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -298,20 +275,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 108.162.198.46:2096 [VLESS]",
-      "server": "108.162.198.46",
-      "server_port": 2096,
+      "tag": "سرویس رایگان نوا 172.67.69.218:8443 [VLESS]",
+      "server": "172.67.69.218",
+      "server_port": 8443,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -321,112 +298,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.21.76:2087 [VLESS]",
-      "server": "104.17.21.76",
-      "server_port": 2087,
-      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nov.xolox.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nov.xolox.ir",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.220.183:443 [VLESS]",
-      "server": "104.17.220.183",
-      "server_port": 443,
-      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nov.xolox.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nov.xolox.ir",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.52.96:443 [VLESS]",
-      "server": "104.17.52.96",
-      "server_port": 443,
-      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nov.xolox.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nov.xolox.ir",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 162.159.45.118:2096 [VLESS]",
-      "server": "162.159.45.118",
-      "server_port": 2096,
-      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nov.xolox.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nov.xolox.ir",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا 172.66.2.225:2053 [VLESS]",
-      "server": "172.66.2.225",
+      "tag": "سرویس رایگان نوا 104.18.33.171:2053 [VLESS]",
+      "server": "104.18.33.171",
       "server_port": 2053,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -436,20 +321,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 104.17.52.139:2083 [VLESS]",
-      "server": "104.17.52.139",
+      "tag": "سرویس رایگان نوا 104.18.33.28:2083 [VLESS]",
+      "server": "104.18.33.28",
       "server_port": 2083,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -459,20 +344,135 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا 162.159.33.118:2096 [VLESS]",
-      "server": "162.159.33.118",
-      "server_port": 2096,
+      "tag": "سرویس رایگان نوا 104.19.146.113:2087 [VLESS]",
+      "server": "104.19.146.113",
+      "server_port": 2087,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 173.245.59.98:2087 [VLESS]",
+      "server": "173.245.59.98",
+      "server_port": 2087,
+      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 8.39.125.55:443 [VLESS]",
+      "server": "8.39.125.55",
+      "server_port": 443,
+      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 104.17.58.220:2083 [VLESS]",
+      "server": "104.17.58.220",
+      "server_port": 2083,
+      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 162.159.38.184:443 [VLESS]",
+      "server": "162.159.38.184",
+      "server_port": 443,
+      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا 8.35.211.71:8443 [VLESS]",
+      "server": "8.35.211.71",
+      "server_port": 8443,
+      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -490,22 +490,22 @@
         "🔮 负载均衡",
         "DIRECT",
         "سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.40.237:443 [VLESS]",
-        "سرویس رایگان نوا 8.39.125.168:2087 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.154:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.171.219:2083 [VLESS]",
-        "سرویس رایگان نوا 172.66.3.255:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.167.67:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.111:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.13:2096 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.46:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.21.76:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.220.183:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.96:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.45.118:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.2.225:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.139:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.33.118:2096 [VLESS]"
+        "سرویس رایگان نوا 104.17.163.35:2087 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.122:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.186:2083 [VLESS]",
+        "سرویس رایگان نوا 198.41.208.248:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.215.100:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.39.120:8443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.109:8443 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.218:8443 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.171:2053 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.28:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.146.113:2087 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.98:2087 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.55:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.58.220:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.184:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.71:8443 [VLESS]"
       ]
     },
     {
@@ -513,22 +513,22 @@
       "tag": "♻️ 自动选择",
       "outbounds": [
         "سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.40.237:443 [VLESS]",
-        "سرویس رایگان نوا 8.39.125.168:2087 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.154:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.171.219:2083 [VLESS]",
-        "سرویس رایگان نوا 172.66.3.255:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.167.67:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.111:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.13:2096 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.46:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.21.76:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.220.183:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.96:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.45.118:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.2.225:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.139:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.33.118:2096 [VLESS]"
+        "سرویس رایگان نوا 104.17.163.35:2087 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.122:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.186:2083 [VLESS]",
+        "سرویس رایگان نوا 198.41.208.248:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.215.100:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.39.120:8443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.109:8443 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.218:8443 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.171:2053 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.28:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.146.113:2087 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.98:2087 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.55:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.58.220:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.184:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.71:8443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -539,22 +539,22 @@
       "tag": "🔯 故障转移",
       "outbounds": [
         "سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.40.237:443 [VLESS]",
-        "سرویس رایگان نوا 8.39.125.168:2087 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.154:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.171.219:2083 [VLESS]",
-        "سرویس رایگان نوا 172.66.3.255:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.167.67:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.111:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.13:2096 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.46:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.21.76:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.220.183:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.96:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.45.118:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.2.225:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.139:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.33.118:2096 [VLESS]"
+        "سرویس رایگان نوا 104.17.163.35:2087 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.122:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.186:2083 [VLESS]",
+        "سرویس رایگان نوا 198.41.208.248:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.215.100:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.39.120:8443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.109:8443 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.218:8443 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.171:2053 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.28:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.146.113:2087 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.98:2087 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.55:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.58.220:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.184:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.71:8443 [VLESS]"
       ]
     },
     {
@@ -562,22 +562,22 @@
       "tag": "🔮 负载均衡",
       "outbounds": [
         "سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.40.237:443 [VLESS]",
-        "سرویس رایگان نوا 8.39.125.168:2087 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.154:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.171.219:2083 [VLESS]",
-        "سرویس رایگان نوا 172.66.3.255:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.167.67:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.111:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.13:2096 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.46:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.21.76:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.220.183:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.96:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.45.118:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.2.225:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.139:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.33.118:2096 [VLESS]"
+        "سرویس رایگان نوا 104.17.163.35:2087 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.122:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.186:2083 [VLESS]",
+        "سرویس رایگان نوا 198.41.208.248:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.215.100:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.39.120:8443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.109:8443 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.218:8443 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.171:2053 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.28:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.146.113:2087 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.98:2087 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.55:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.58.220:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.184:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.71:8443 [VLESS]"
       ]
     },
     {
@@ -610,22 +610,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.40.237:443 [VLESS]",
-        "سرویس رایگان نوا 8.39.125.168:2087 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.154:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.171.219:2083 [VLESS]",
-        "سرویس رایگان نوا 172.66.3.255:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.167.67:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.111:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.13:2096 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.46:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.21.76:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.220.183:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.96:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.45.118:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.2.225:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.139:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.33.118:2096 [VLESS]"
+        "سرویس رایگان نوا 104.17.163.35:2087 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.122:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.186:2083 [VLESS]",
+        "سرویس رایگان نوا 198.41.208.248:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.215.100:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.39.120:8443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.109:8443 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.218:8443 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.171:2053 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.28:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.146.113:2087 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.98:2087 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.55:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.58.220:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.184:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.71:8443 [VLESS]"
       ]
     },
     {
@@ -640,22 +640,22 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.40.237:443 [VLESS]",
-        "سرویس رایگان نوا 8.39.125.168:2087 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.154:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.171.219:2083 [VLESS]",
-        "سرویس رایگان نوا 172.66.3.255:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.167.67:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.111:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.13:2096 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.46:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.21.76:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.220.183:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.96:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.45.118:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.2.225:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.139:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.33.118:2096 [VLESS]"
+        "سرویس رایگان نوا 104.17.163.35:2087 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.122:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.186:2083 [VLESS]",
+        "سرویس رایگان نوا 198.41.208.248:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.215.100:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.39.120:8443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.109:8443 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.218:8443 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.171:2053 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.28:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.146.113:2087 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.98:2087 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.55:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.58.220:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.184:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.71:8443 [VLESS]"
       ]
     },
     {
@@ -665,22 +665,22 @@
         "📢 https://t.me/irnova_proxy",
         "DIRECT",
         "سرویس رایگان نوا pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.40.237:443 [VLESS]",
-        "سرویس رایگان نوا 8.39.125.168:2087 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.154:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.171.219:2083 [VLESS]",
-        "سرویس رایگان نوا 172.66.3.255:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.167.67:2083 [VLESS]",
-        "سرویس رایگان نوا 104.17.156.111:2096 [VLESS]",
-        "سرویس رایگان نوا 104.19.32.13:2096 [VLESS]",
-        "سرویس رایگان نوا 108.162.198.46:2096 [VLESS]",
-        "سرویس رایگان نوا 104.17.21.76:2087 [VLESS]",
-        "سرویس رایگان نوا 104.17.220.183:443 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.96:443 [VLESS]",
-        "سرویس رایگان نوا 162.159.45.118:2096 [VLESS]",
-        "سرویس رایگان نوا 172.66.2.225:2053 [VLESS]",
-        "سرویس رایگان نوا 104.17.52.139:2083 [VLESS]",
-        "سرویس رایگان نوا 162.159.33.118:2096 [VLESS]"
+        "سرویس رایگان نوا 104.17.163.35:2087 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.122:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.186:2083 [VLESS]",
+        "سرویس رایگان نوا 198.41.208.248:8443 [VLESS]",
+        "سرویس رایگان نوا 104.17.215.100:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.39.120:8443 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.109:8443 [VLESS]",
+        "سرویس رایگان نوا 172.67.69.218:8443 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.171:2053 [VLESS]",
+        "سرویس رایگان نوا 104.18.33.28:2083 [VLESS]",
+        "سرویس رایگان نوا 104.19.146.113:2087 [VLESS]",
+        "سرویس رایگان نوا 173.245.59.98:2087 [VLESS]",
+        "سرویس رایگان نوا 8.39.125.55:443 [VLESS]",
+        "سرویس رایگان نوا 104.17.58.220:2083 [VLESS]",
+        "سرویس رایگان نوا 162.159.38.184:443 [VLESS]",
+        "سرویس رایگان نوا 8.35.211.71:8443 [VLESS]"
       ]
     },
     {
@@ -703,8 +703,7 @@
         247,
         5
       ],
-      "mtu": 1280,
-      "detour": "🚀 节点选择"
+      "mtu": 1280
     }
   ],
   "route": {
