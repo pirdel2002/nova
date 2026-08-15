@@ -29,7 +29,7 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: "📢 https://t.me/irnova_proxy", server: 192.0.2.1, port: 443, type: vmess, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, alterId: 0, cipher: auto, tls: true, servername: "nov.xolox.ir", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "nov.xolox.ir"}}, udp: false}
+  - {name: "📢 https://t.me/irnova_proxy", server: 192.0.2.1, port: 443, type: vmess, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, alterId: 0, cipher: auto, tls: true, servername: "pixel-stack-atlas-b69815.helsin.workers.dev", network: ws, ws-opts: {path: "/?fake=1", headers: {Host: "pixel-stack-atlas-b69815.helsin.workers.dev"}}, udp: false}
   - name: "Nova-WARP"
     type: wireguard
     server: engage.cloudflareclient.com
@@ -42,36 +42,36 @@ proxies:
     udp: true
     mtu: 1280
     amnezia-wg-option: {jc: 4, jmin: 40, jmax: 70}
-  - {name: "سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]", server: nov.xolox.ir, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]", server: 104.17.208.42, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]", server: 104.17.190.210, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]", server: 104.18.44.4, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.223.171:2087 [VLESS]", server: 198.41.223.171, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.223.254:2087 [VLESS]", server: 104.17.223.254, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.219.70:2096 [VLESS]", server: 104.17.219.70, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.67.60:2087 [VLESS]", server: 172.67.67.60, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.159.121:8443 [VLESS]", server: 104.17.159.121, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.84.207:2087 [VLESS]", server: 104.18.84.207, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.153.227:8443 [VLESS]", server: 104.19.153.227, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 8.35.211.49:2083 [VLESS]", server: 8.35.211.49, port: 2083, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 91.193.59.211:2083 [VLESS]", server: 91.193.59.211, port: 2083, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.26.0.87:443 [VLESS]", server: 104.26.0.87, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.72.96:8443 [VLESS]", server: 172.67.72.96, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.94.145:2053 [VLESS]", server: 104.18.94.145, port: 2053, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.122.42:2096 [VLESS]", server: 104.17.122.42, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 88.198.82.148:443 [VLESS]", server: 88.198.82.148, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 213.108.198.56:443 [VLESS]", server: 213.108.198.56, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 185.100.159.170:443 [VLESS]", server: 185.100.159.170, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 195.245.239.195:443 [VLESS]", server: 195.245.239.195, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 138.201.170.108:443 [VLESS]", server: 138.201.170.108, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 176.120.180.28:8443 [VLESS]", server: 176.120.180.28, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 64.188.68.11:443 [VLESS]", server: 64.188.68.11, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 45.155.102.207:443 [VLESS]", server: 45.155.102.207, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]", server: 23.165.200.241, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]", server: 152.53.84.52, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]", server: 162.159.226.8, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
-  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]", server: 104.18.1.1, port: 2053, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]", server: pixel-stack-atlas-b69815.helsin.workers.dev, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]", server: 104.17.208.42, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]", server: 104.17.190.210, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]", server: 104.18.44.4, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 198.41.223.171:2087 [VLESS]", server: 198.41.223.171, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.223.254:2087 [VLESS]", server: 104.17.223.254, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.219.70:2096 [VLESS]", server: 104.17.219.70, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.67.60:2087 [VLESS]", server: 172.67.67.60, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.159.121:8443 [VLESS]", server: 104.17.159.121, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.84.207:2087 [VLESS]", server: 104.18.84.207, port: 2087, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.153.227:8443 [VLESS]", server: 104.19.153.227, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 8.35.211.49:2083 [VLESS]", server: 8.35.211.49, port: 2083, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 91.193.59.211:2083 [VLESS]", server: 91.193.59.211, port: 2083, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.26.0.87:443 [VLESS]", server: 104.26.0.87, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 172.67.72.96:8443 [VLESS]", server: 172.67.72.96, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.94.145:2053 [VLESS]", server: 104.18.94.145, port: 2053, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.17.122.42:2096 [VLESS]", server: 104.17.122.42, port: 2096, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 88.198.82.148:443 [VLESS]", server: 88.198.82.148, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 213.108.198.56:443 [VLESS]", server: 213.108.198.56, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 185.100.159.170:443 [VLESS]", server: 185.100.159.170, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 195.245.239.195:443 [VLESS]", server: 195.245.239.195, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 138.201.170.108:443 [VLESS]", server: 138.201.170.108, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 176.120.180.28:8443 [VLESS]", server: 176.120.180.28, port: 8443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 64.188.68.11:443 [VLESS]", server: 64.188.68.11, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 45.155.102.207:443 [VLESS]", server: 45.155.102.207, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]", server: 23.165.200.241, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]", server: 152.53.84.52, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]", server: 162.159.226.8, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]", server: 104.18.0.0, port: 443, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: pixel-stack-atlas-b69815.helsin.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: pixel-stack-atlas-b69815.helsin.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]", server: 104.18.1.1, port: 2053, type: vless, uuid: 8542165b-415f-4a4b-8cf1-07a3ff1818e5, tls: true, skip-cert-verify: false, servername: nov.xolox.ir, client-fingerprint: chrome, network: ws, ws-opts: {path: /, headers: {Host: nov.xolox.ir}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -81,7 +81,7 @@ proxy-groups:
       - 🔯 故障转移
       - 🔮 负载均衡
       - DIRECT
-      - سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]
@@ -109,15 +109,15 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]
@@ -145,14 +145,14 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]
@@ -180,15 +180,15 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
     url: http://www.gstatic.com/generate_204
     interval: 180
     proxies:
-      - سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]
@@ -216,8 +216,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -240,7 +240,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]
@@ -268,8 +268,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -280,7 +280,7 @@ proxy-groups:
       - ♻️ 自动选择
       - 🔯 故障转移
       - 🔮 负载均衡
-      - سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]
@@ -308,8 +308,8 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]
-      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]
 rules:
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
@@ -6840,6 +6840,7 @@ rules:
   - DOMAIN,27e10lrjk6f.61y77.adobestats.io,🛑 全球拦截
   - DOMAIN,picrx8i067.61y77.adobestats.io,🛑 全球拦截
   - DOMAIN,bpkh681n1.hmq9r.adobestats.io,🛑 全球拦截
+  - DOMAIN,hw7w59pe.ok0r5.adobestats.io,🛑 全球拦截
   - DOMAIN-SUFFIX,265.com,🚀 节点选择
   - DOMAIN-SUFFIX,2mdn.net,🚀 节点选择
   - DOMAIN-SUFFIX,alt1-mtalk.google.com,🚀 节点选择
@@ -8818,26 +8819,21 @@ rules:
   - IP-CIDR,5.252.81.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.6.112.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.20.125.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,8.21.9.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.21.10.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.21.111.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.24.87.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,8.25.97.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.27.64.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.27.66.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,8.27.68.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.29.109.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.29.228.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.29.230.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.31.160.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,8.34.70.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,8.34.70.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.34.146.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.35.211.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,8.37.43.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.39.125.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.39.204.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.39.214.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,8.44.2.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.44.61.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.47.13.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,8.47.69.0/24,☁️ CloudFlareCDN,no-resolve
@@ -8850,6 +8846,7 @@ rules:
   - IP-CIDR,31.185.108.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,37.153.170.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,38.96.28.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,42.61.47.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,43.228.232.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,43.230.112.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,43.230.114.0/24,☁️ CloudFlareCDN,no-resolve
@@ -8875,6 +8872,7 @@ rules:
   - IP-CIDR,51.194.144.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,51.241.128.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,57.250.49.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,61.8.33.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,61.32.240.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,61.245.108.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,62.146.255.0/24,☁️ CloudFlareCDN,no-resolve
@@ -8901,7 +8899,9 @@ rules:
   - IP-CIDR,82.22.16.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,82.25.20.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,82.26.156.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,82.109.153.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,82.139.216.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,87.86.16.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,87.232.75.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,88.216.69.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,89.46.251.0/24,☁️ CloudFlareCDN,no-resolve
@@ -8965,17 +8965,17 @@ rules:
   - IP-CIDR,104.22.112.0/21,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.120.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.123.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.127.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.126.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.128.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.131.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.132.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.134.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.136.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.140.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.148.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.150.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.155.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.156.0/22,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.160.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.162.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.165.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.167.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.168.0/24,☁️ CloudFlareCDN,no-resolve
@@ -8985,7 +8985,8 @@ rules:
   - IP-CIDR,104.22.176.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.180.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.22.186.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.22.190.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.190.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,104.22.192.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.160.0/20,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.176.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.23.178.0/24,☁️ CloudFlareCDN,no-resolve
@@ -9007,12 +9008,8 @@ rules:
   - IP-CIDR,104.27.0.0/17,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.27.192.0/20,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.28.0.0/16,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.29.5.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.29.6.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.29.9.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.29.45.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.29.63.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,104.29.73.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.29.77.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.29.92.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,104.29.111.0/24,☁️ CloudFlareCDN,no-resolve
@@ -9091,6 +9088,7 @@ rules:
   - IP-CIDR,147.189.42.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,148.224.60.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,148.227.167.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,149.112.78.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,150.48.128.0/18,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,151.243.133.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,151.245.127.0/24,☁️ CloudFlareCDN,no-resolve
@@ -9101,6 +9099,7 @@ rules:
   - IP-CIDR,154.81.141.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,154.84.164.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,154.86.118.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,154.193.63.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,154.193.133.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,154.193.184.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,154.200.89.0/24,☁️ CloudFlareCDN,no-resolve
@@ -9110,6 +9109,7 @@ rules:
   - IP-CIDR,156.70.60.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,156.71.149.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,156.224.73.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,156.238.181.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,156.243.83.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,156.246.69.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,156.246.70.0/24,☁️ CloudFlareCDN,no-resolve
@@ -9121,7 +9121,7 @@ rules:
   - IP-CIDR,162.44.104.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.0.0/21,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.8.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,162.158.10.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,162.158.10.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.12.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.16.0/21,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.24.0/23,☁️ CloudFlareCDN,no-resolve
@@ -9134,7 +9134,6 @@ rules:
   - IP-CIDR,162.158.40.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.44.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.48.0/21,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,162.158.56.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.61.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.62.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,162.158.73.0/24,☁️ CloudFlareCDN,no-resolve
@@ -9333,7 +9332,6 @@ rules:
   - IP-CIDR,172.68.244.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.68.248.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.68.251.0/24,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.68.252.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.68.255.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.0.0/22,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.5.0/24,☁️ CloudFlareCDN,no-resolve
@@ -9417,7 +9415,8 @@ rules:
   - IP-CIDR,172.69.241.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.245.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.246.0/23,☁️ CloudFlareCDN,no-resolve
-  - IP-CIDR,172.69.248.0/22,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,172.69.248.0/23,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,172.69.251.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.253.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.69.255.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,172.70.32.0/20,☁️ CloudFlareCDN,no-resolve
@@ -9523,6 +9522,7 @@ rules:
   - IP-CIDR,173.245.63.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,176.103.113.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,178.83.176.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,178.93.117.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,178.94.249.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,181.215.196.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,182.23.210.0/24,☁️ CloudFlareCDN,no-resolve
@@ -9595,9 +9595,11 @@ rules:
   - IP-CIDR,198.41.238.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,198.41.240.0/23,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,198.41.242.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,198.52.36.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,198.148.174.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,198.217.251.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,198.252.206.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,199.7.70.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,199.27.128.0/21,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,199.65.62.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,199.68.16.0/22,☁️ CloudFlareCDN,no-resolve
@@ -9610,6 +9612,8 @@ rules:
   - IP-CIDR,203.117.53.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,203.120.52.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,204.4.235.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,204.62.121.0/24,☁️ CloudFlareCDN,no-resolve
+  - IP-CIDR,204.62.122.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,204.69.207.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,204.153.16.0/24,☁️ CloudFlareCDN,no-resolve
   - IP-CIDR,204.195.192.0/18,☁️ CloudFlareCDN,no-resolve
