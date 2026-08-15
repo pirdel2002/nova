@@ -90,12 +90,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -113,12 +113,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -136,12 +136,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -159,12 +159,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -182,12 +182,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -205,12 +205,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -228,12 +228,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -251,12 +251,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -274,12 +274,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -297,12 +297,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -320,12 +320,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -343,12 +343,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -366,12 +366,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -389,12 +389,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -412,12 +412,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -435,12 +435,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -458,12 +458,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -481,12 +481,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -504,12 +504,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -527,12 +527,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -550,12 +550,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -573,12 +573,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -596,12 +596,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -619,12 +619,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -642,12 +642,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -665,12 +665,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -688,12 +688,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -711,12 +711,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -734,12 +734,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -757,12 +757,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+          "Host": "nov.xolox.ir"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "server_name": "nov.xolox.ir",
         "insecure": false,
         "utls": {
           "enabled": true,
