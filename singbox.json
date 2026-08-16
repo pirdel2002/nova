@@ -82,20 +82,20 @@
     },
     {
       "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]",
-      "server": "nov.xolox.ir",
+      "tag": "سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
+      "server": "pixel-stack-atlas-b69815.helsin.workers.dev",
       "server_port": 443,
       "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
       "transport": {
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -113,12 +113,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -136,12 +136,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -159,12 +159,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -182,12 +182,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -205,12 +205,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -228,12 +228,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -251,12 +251,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -274,12 +274,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -297,12 +297,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -320,12 +320,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -343,12 +343,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -366,12 +366,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -389,12 +389,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -412,12 +412,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -435,12 +435,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -458,12 +458,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -481,12 +481,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -504,12 +504,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -527,12 +527,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -550,12 +550,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -573,12 +573,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -596,12 +596,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -619,12 +619,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -642,12 +642,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -665,12 +665,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -688,12 +688,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -711,35 +711,12 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
-        "insecure": false,
-        "utls": {
-          "enabled": true,
-          "fingerprint": "chrome"
-        }
-      }
-    },
-    {
-      "type": "vless",
-      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
-      "server": "104.18.0.0",
-      "server_port": 443,
-      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
-      "transport": {
-        "path": "/",
-        "type": "ws",
-        "headers": {
-          "Host": "nov.xolox.ir"
-        }
-      },
-      "tls": {
-        "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -757,12 +734,35 @@
         "path": "/",
         "type": "ws",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir",
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
+        "insecure": false,
+        "utls": {
+          "enabled": true,
+          "fingerprint": "chrome"
+        }
+      }
+    },
+    {
+      "type": "vless",
+      "tag": "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
+      "server": "104.18.0.0",
+      "server_port": 443,
+      "uuid": "8542165b-415f-4a4b-8cf1-07a3ff1818e5",
+      "transport": {
+        "path": "/",
+        "type": "ws",
+        "headers": {
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
+        }
+      },
+      "tls": {
+        "enabled": true,
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev",
         "insecure": false,
         "utls": {
           "enabled": true,
@@ -778,7 +778,7 @@
         "🔯 故障转移",
         "🔮 负载均衡",
         "DIRECT",
-        "سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]",
@@ -806,8 +806,8 @@
         "سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
         "📢 https://t.me/irnova_proxy"
       ]
     },
@@ -815,7 +815,7 @@
       "type": "urltest",
       "tag": "♻️ 自动选择",
       "outbounds": [
-        "سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]",
@@ -843,8 +843,8 @@
         "سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ],
       "url": "http://www.gstatic.com/generate_204",
       "interval": "5m",
@@ -854,7 +854,7 @@
       "type": "urltest",
       "tag": "🔯 故障转移",
       "outbounds": [
-        "سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]",
@@ -882,15 +882,15 @@
         "سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ]
     },
     {
       "type": "urltest",
       "tag": "🔮 负载均衡",
       "outbounds": [
-        "سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]",
@@ -918,8 +918,8 @@
         "سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]"
+        "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]"
       ]
     },
     {
@@ -950,7 +950,7 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]",
@@ -978,8 +978,8 @@
         "سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
         "📢 https://t.me/irnova_proxy"
       ]
     },
@@ -993,7 +993,7 @@
         "♻️ 自动选择",
         "🔯 故障转移",
         "🔮 负载均衡",
-        "سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]",
@@ -1021,8 +1021,8 @@
         "سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
         "📢 https://t.me/irnova_proxy"
       ]
     },
@@ -1031,7 +1031,7 @@
       "tag": "GLOBAL",
       "outbounds": [
         "DIRECT",
-        "سرویس رایگان نوا @irnova_proxy nov.xolox.ir:443 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy pixel-stack-atlas-b69815.helsin.workers.dev:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.208.42:2096 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.17.190.210:2087 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.44.4:2087 [VLESS]",
@@ -1059,8 +1059,8 @@
         "سرویس رایگان نوا @irnova_proxy 23.165.200.241:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 152.53.84.52:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 162.159.226.8:443 [VLESS]",
-        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
         "سرویس رایگان نوا @irnova_proxy 104.18.1.1:2053 [VLESS]",
+        "سرویس رایگان نوا @irnova_proxy 104.18.0.0:443 [VLESS]",
         "📢 https://t.me/irnova_proxy"
       ]
     },
@@ -1098,12 +1098,12 @@
         "type": "ws",
         "path": "/?fake=1",
         "headers": {
-          "Host": "nov.xolox.ir"
+          "Host": "pixel-stack-atlas-b69815.helsin.workers.dev"
         }
       },
       "tls": {
         "enabled": true,
-        "server_name": "nov.xolox.ir"
+        "server_name": "pixel-stack-atlas-b69815.helsin.workers.dev"
       }
     }
   ],
